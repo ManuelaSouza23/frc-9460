@@ -50,3 +50,18 @@ body{
 .card{
     margin: 1%;
 }
+
+.carousel{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+
+.d-block{ 
+    height: 500px;
+    margin: 10px;
+}
+
+.carousel-control-prev, .carousel-control-next{
+    align-items: end;
+}
